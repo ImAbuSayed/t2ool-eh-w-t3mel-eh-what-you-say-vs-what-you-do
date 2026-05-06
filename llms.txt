@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/t2ool-eh-w-t3mel-eh-what-you-say-vs-what-you-do/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for T2ool Eh W T3mel Eh – What you say vs what you do](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for T2ool Eh W T3mel Eh – What you say vs what you do](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
